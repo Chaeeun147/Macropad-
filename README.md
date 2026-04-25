@@ -1,4 +1,5 @@
 This is my  number macropad called Bento Buttons!!
+
 It has 9 buttons arranged in a standard 3-by-3 MX switch layout, with each button assigned a number. It also has custom keycaps I made.
 
 I decided to make this because I saw my friend have one and thought it was very nice. But I never found a justifiable reason to buy it for myself. So I decided, instead of buying one with money, I should make it myself! Therefore, I made this project!
