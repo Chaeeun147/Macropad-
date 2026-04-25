@@ -4,6 +4,13 @@ It has 9 buttons arranged in a standard 3-by-3 MX switch layout, with each butto
 
 I decided to make this because I saw my friend have one and thought it was very nice. But I never found a justifiable reason to buy it for myself. So I decided, instead of buying one with money, I should make it myself! Therefore, I made this project!
 
+Case Onspae Project Link:
+https://cad.onshape.com/documents/b9ad67c2619a28230095964c/w/e97b6c9aa4d60c46a3c97c60/e/4f1c892a648408b650cc743c?renderMode=0&uiState=69ecc582b69343973a4b0322
+
+Keycap Onshape Project Link:
+https://cad.onshape.com/documents/011ac684179c40686769cfd5/w/52282f15d2c1c6dc678585c8/e/da4142377097f970f64a90cc?renderMode=0&uiState=69ecc4f1b2576af614260f4a
+
+
 3D Model:
 <img width="1146" height="782" alt="Macropad CADAssembly (case+pcb)" src="https://github.com/user-attachments/assets/d695da50-ab99-485a-9a03-6b90481657a6" />
 
