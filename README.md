@@ -23,6 +23,9 @@ PCB:
 Schematic:
 <img width="770" height="587" alt="Macropad Schematic" src="https://github.com/user-attachments/assets/7bbb4e7a-f2f6-4018-bf94-643b561aa8d4" />
 
+Case:
+<img width="931" height="741" alt="Macropad Case" src="https://github.com/user-attachments/assets/5d1c7167-baa6-4ffa-96c0-c355c6424155" />
+
 Keycaps:
 <img width="1231" height="761" alt="Macropad KeyCaps 3DModel" src="https://github.com/user-attachments/assets/51fc8794-8fd9-4a8c-bf9a-b8a72879eaec" />
 
