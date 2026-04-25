@@ -1,4 +1,3 @@
-<img width="843" height="758" alt="Macropad PCB" src="https://github.com/user-attachments/assets/d86e0a58-8246-44eb-a82b-3413d13af901" /># Macropad-
 This is my  number macropad called Bento Buttons!!
 It has 9 buttons arranged in a standard 3-by-3 MX switch layout, with each button assigned a number. It also has custom keycaps I made.
 
