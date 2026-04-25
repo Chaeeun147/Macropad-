@@ -1,5 +1,24 @@
-# Macropad-
-This is my custom number macropad called Bento Buttons!!
+<img width="843" height="758" alt="Macropad PCB" src="https://github.com/user-attachments/assets/d86e0a58-8246-44eb-a82b-3413d13af901" /># Macropad-
+This is my  number macropad called Bento Buttons!!
+It has 9 buttons arranged in a standard 3-by-3 MX switch layout, with each button assigned a number. It also has custom keycaps I made.
+
+I decided to make this because I saw my friend have one and thought it was very nice. But I never found a justifiable reason to buy it for myself. So I decided, instead of buying one with money, I should make it myself! Therefore, I made this project!
+
+3D Model:
+<img width="1146" height="782" alt="Macropad CADAssembly (case+pcb)" src="https://github.com/user-attachments/assets/d695da50-ab99-485a-9a03-6b90481657a6" />
+
+PCB 3D Viewer:
+<img width="1307" height="937" alt="Macropad PCB 3DViewer" src="https://github.com/user-attachments/assets/6e5580b8-381d-4708-8368-7db6cf549355" />
+
+PCB:
+<img width="843" height="758" alt="Macropad PCB" src="https://github.com/user-attachments/assets/b00acac5-0402-4f09-a90e-1580fc25f25c" />
+
+Schematic:
+<img width="770" height="587" alt="Macropad Schematic" src="https://github.com/user-attachments/assets/7bbb4e7a-f2f6-4018-bf94-643b561aa8d4" />
+
+Keycaps:
+<img width="1231" height="761" alt="Macropad KeyCaps 3DModel" src="https://github.com/user-attachments/assets/51fc8794-8fd9-4a8c-bf9a-b8a72879eaec" />
+
 
 BOM:
 | Part Name | Quantity | Description | Cost | Link  |
